@@ -911,7 +911,7 @@ You now think like a programmer! You can:
 - **Exercism**: Mentored coding practice
 
 **YouTube Channels:**
-- **Amigoscode
+- **Amigoscode**: Java tutorials and live coding
 - **Derek Banas**: Java programming tutorials
 - **thenewboston**: Beginner-friendly programming videos
 - **Coding with John**: Clear Java explanations
