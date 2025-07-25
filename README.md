@@ -912,8 +912,9 @@ You now think like a programmer! You can:
 
 **Video Learning:**
 
-**Amigoscode YouTube Channel** - Excellent Java tutorials with clear explanations and practical projects
-[**Amigoscode**](https://amigoscode.com/) Courses - Comprehensive Java courses including Spring Boot, microservices, and full-stack development
+- **Amigoscode YouTube Channel** - Excellent Java tutorials with clear explanations and practical projects
+
+- [**Amigoscode**](https://amigoscode.com/) Courses - Comprehensive Java courses including Spring Boot, microservices, and full-stack development
 
 **Books for Continued Learning:**
 - "Head First Java" by Kathy Sierra
