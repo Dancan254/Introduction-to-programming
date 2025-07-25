@@ -910,11 +910,10 @@ You now think like a programmer! You can:
 - **Codewars**: Gamified programming challenges
 - **Exercism**: Mentored coding practice
 
-**YouTube Channels:**
-- **Amigoscode**: Java tutorials and live coding
-- **Derek Banas**: Java programming tutorials
-- **thenewboston**: Beginner-friendly programming videos
-- **Coding with John**: Clear Java explanations
+**Video Learning:**
+
+**Amigoscode YouTube Channel** - Excellent Java tutorials with clear explanations and practical projects
+[**Amigoscode**](https://amigoscode.com/) Courses - Comprehensive Java courses including Spring Boot, microservices, and full-stack development
 
 **Books for Continued Learning:**
 - "Head First Java" by Kathy Sierra
